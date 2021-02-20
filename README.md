@@ -1,23 +1,21 @@
-# Awesome Visual-Transformer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Transformer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Collect some Transformer with Computer-Vision (CV) papers.
+A curated list of all kinds of transformers, also include some personal experiment results, applications and thoughts from industry.
 
-
-## Papers
-
-### Transformer original paper
+## Blogs
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 
-### Technical blog
-
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 
-### Survey
-  - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
-  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
+- Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
 
-### arXiv papers
+- A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
+
+  
+
+## arXiv papers
+
 - Training Vision Transformers for Image Retrieval[[paper](https://arxiv.org/abs/2102.05644)]
 - **[TransReID]** TransReID: Transformer-based Object Re-Identification[[paper](https://arxiv.org/abs/2102.04378)]
 - **[VTN]** Video Transformer Network[[paper](https://arxiv.org/abs/2102.00719)]
@@ -57,6 +55,7 @@ Collect some Transformer with Computer-Vision (CV) papers.
 - **[VTs]** Visual Transformers: Token-based Image Representation and Processing for Computer Vision[[paper](https://arxiv.org/abs/2006.03677)]
 
 ### 2021
+
 - **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale(**ICLR**)[[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/google-research/vision_transformer)]
 - **[Deformable DETR]** Deformable DETR: Deformable Transformers for End-to-End Object Detection(**ICLR**)[[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 - **[LSTR]** End-to-end Lane Shape Prediction with Transformers(**WACV**) [[paper](https://arxiv.org/abs/2011.04233)] [[code](https://github.com/liuruijin17/LSTR)]
@@ -67,8 +66,13 @@ Collect some Transformer with Computer-Vision (CV) papers.
 - **[FPT]** Feature Pyramid Transformer(**CVPR**) [[paper](https://arxiv.org/abs/2007.09451)] [[code](https://github.com/ZHANGDONG-NJUST/FPT)]
 - **[TTSR]** Learning Texture Transformer Network for Image Super-Resolution(**CVPR**) [[paper](https://arxiv.org/abs/2006.04139)] [[code](https://github.com/researchmm/TTSR)]
 
-### Acknowledgement
-Thanks the template from [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
+
+
+
+
+## Reference
+
+1. [origin](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
 
 
