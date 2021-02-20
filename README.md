@@ -2,14 +2,31 @@
 
 A curated list of all kinds of transformers, also include some personal experiment results, applications and thoughts from industry.
 
+
+
+## Updates
+
+- **2021.02.20**: I opened github discuss panel, we can start discuss about transformers there.
+
+
+
 ## Blogs
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
 - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
+- https://zhuanlan.zhihu.com/p/342512339 万字长文带你了解2021大热的ViT
+- 线性Attention的探索：Attention必须有个Softmax吗？[link](线性Attention的探索：Attention必须有个Softmax吗？)
 
-  
+
+
+## Standalone Github Repos
+
+- https://github.com/ThilinaRajapakse/simpletransformers: Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI;
+- 
+
+
 
 ## arXiv papers
 
