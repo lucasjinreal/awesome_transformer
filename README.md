@@ -5,11 +5,8 @@ A curated list of all kinds of transformers, also include some personal experime
 ## Blogs
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
-
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
-
 - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.01.04
-
 - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.12.24
 
   
@@ -76,6 +73,9 @@ A curated list of all kinds of transformers, also include some personal experime
 
 
 
+## Copyright
 
+
+Collected by Lucas Jin. 2021
 
 
